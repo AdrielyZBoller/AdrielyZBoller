@@ -12,12 +12,12 @@
  ## 🚀 **Linguagens e Ferramentas:**
 
  #### 💻 Uso diário:
- ![Python](https://img.shields.io/badge/-Python-orange?style=flat-square&logo=Python)
+ ![Python](https://img.shields.io/badge/-Python-orange?style=flat-squareflat-square&logo=Python&logoColor=white)
  ![Github](https://img.shields.io/badge/-Github-orange?style=flat-squareflat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-orange?style=flat-squareflat-square&logo=visual-studio-code)
  
  
  #### 🎲 Ciência de dados:
- ![Colab](https://img.shields.io/badge/-Colab-orange?style=flat-squareflat-square&logo=googlecolab&color=orange)
+ ![Colab](https://img.shields.io/badge/-Colab-orange?style=flat-squareflat-square&logo=googlecolab&logoColor=white)
 
  </div>
