@@ -1,4 +1,4 @@
-![banner](https://github.com/AdrielyZBoller/AdrielyZBoller/assets/148827018/12b9df4d-73ea-499e-94d2-101ca510e4af)
+![Banner_git](https://github.com/AdrielyZBoller/AdrielyZBoller/assets/148827018/4ab6f324-2f9d-4237-89b2-852b6dda7935)
 ---
 
 <div align="center">
