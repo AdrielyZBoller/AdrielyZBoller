@@ -32,10 +32,8 @@
 
 <div align="center">
 
+<img src="https://github.com/AdrielyZBoller/AdrielyZBoller/assets/148827018/ffa7baef-8d52-4af9-9c50-9b3f3812f8920" width="20%" height="20%"/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gifp">
-
- 
   <a href="https://www.linkedin.com/in/adriely-zambiasi-boller-b3636220b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:adrielyzb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/adriely_boller" target="_blank"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
