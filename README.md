@@ -43,6 +43,12 @@ Meu portfólio no GitHub reflete minha jornada e crescimento, apresentando proje
  </div>
 
 <div align="center">
+---
+
+<div id="header" align="center">
+
+<img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielyzboller&hide=html&layout=compact&theme=gray" /></td> <a href="https://github.com/AdrielyZBoller/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=adrielyzboller&show_icons=true&theme=gray&include_commits=true"/>
+</a>
 
   <a href="https://www.linkedin.com/in/adriely-zambiasi-boller-b3636220b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:adrielyzb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
