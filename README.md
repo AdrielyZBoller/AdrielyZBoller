@@ -1,4 +1,4 @@
-![Banner](https://github.com/AdrielyZBoller/AdrielyZBoller/issues/4#issue-2206496221)
+![capa](https://github.com/AdrielyZBoller/AdrielyZBoller/issues/4#issue-2206496221)
 ---
 
 <div align="center">
