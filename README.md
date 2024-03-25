@@ -14,8 +14,6 @@
 
 Meu portfólio no GitHub reflete minha jornada e crescimento, apresentando projetos que incluem desde a manipulação de dados com Python e SQL até análise estatística, visualização de dados e preparação de dados para análises mais aprofundadas.
 
-
-
 </div>
  
 <div align="left">
@@ -38,13 +36,11 @@ Meu portfólio no GitHub reflete minha jornada e crescimento, apresentando proje
 
   #### 📚 Estou aprendendo:
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-gray?style=flat-squareflat-square&logo=PostgreSQL)
- 
-</div>
----
+ </div>
 
 <div id="header" align="center">
 
-<img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielyzboller&hide=html&layout=compact&theme=radical" /></td> <a href="https://github.com/AdrielyZBoller/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=adrielyzboller&show_icons=true&theme=radical&include_commits=true"/>
+<img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielyzboller&hide=html&layout=compact&theme=calm" /></td> <a href="https://github.com/AdrielyZBoller/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=adrielyzboller&show_icons=true&theme=calm&include_commits=true"/>
 </a>
 
   <a href="https://www.linkedin.com/in/adriely-zambiasi-boller-b3636220b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -52,3 +48,4 @@ Meu portfólio no GitHub reflete minha jornada e crescimento, apresentando proje
    <a href="https://instagram.com/adriely_boller" target="_blank"><img src="https://img.shields.io/badge/-Instagram-gray?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
+
