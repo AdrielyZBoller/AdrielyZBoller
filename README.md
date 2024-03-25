@@ -8,7 +8,7 @@
 
 <div align="left">
  
-:octocat: 📚 Sou graduada em Química, com um mestrado em Química Orgânica. Recentemente, estou em transição de carreira para a área da tecnologia, onde tenho desenvolvido análise e manipulação de dados, buscando constantemente aprender e aprimorar minhas habilidades nesse campo.
+📚 Sou graduada em Química, com um mestrado em Química Orgânica. Recentemente, estou em transição de carreira para a área da tecnologia, onde tenho desenvolvido análise e manipulação de dados, buscando constantemente aprender e aprimorar minhas habilidades nesse campo.
 
 💻 Em agosto de 2023, tive a oportunidade de participar do competitivo processo seletivo #VemSerTech, onde enfrentei desafios ao lado de mais de 30 mil inscritos, conquistando uma das 520 vagas disponíveis🎉. Durante esse programa, desenvolvi projetos utilizando um conjunto diversificado de tecnologias, como Python, Matplotlib, Pandas, Seaborn, Numpy, SQL, Power BI, entre outras.
 
